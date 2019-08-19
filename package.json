@@ -1,0 +1,25 @@
+{
+  "name": "npm-webpack-library",
+  "version": "1.0.0",
+  "description": "这是一个webpack library",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "start": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zouzenghu/npm-webpack-library.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zouzenghu/npm-webpack-library/issues"
+  },
+  "homepage": "https://github.com/zouzenghu/npm-webpack-library#readme",
+  "dependencies": {
+    "webpack": "^4.39.2",
+    "webpack-cli": "^3.3.7"
+  }
+}
